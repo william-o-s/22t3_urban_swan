@@ -1,0 +1,14 @@
+{
+    "index": "https://www.urbanswan.com/sitemap-index.xml",
+    "about-us": "https://www.urbanswan.com/sitemap-about.xml",
+    "article": "https://www.urbanswan.com/sitemap-article.xml",
+    "blog": "https://www.urbanswan.com/sitemap-blog.xml",
+    "category": "https://www.urbanswan.com/sitemap-category.xml",
+    "explore": "https://www.urbanswan.com/sitemap-explore.xml",
+    "listing": "https://www.urbanswan.com/sitemap-listing.xml",
+    "theme": "https://www.urbanswan.com/sitemap-theme.xml",
+    "quiz": "https://www.urbanswan.com/sitemap-quiz.xml",
+    "terms": "https://www.urbanswan.com/sitemap-terms.xml",
+    "privacy_policy": "https://www.urbanswan.com/sitemap-privacy_policy.xml",
+    "faq": "https://www.urbanswan.com/sitemap-faq.xml"
+}
