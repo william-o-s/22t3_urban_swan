@@ -18,11 +18,3 @@ A breakdown of Urban Swan can be obtained by running the corresponding scripts c
 ### Web Scraping on DE
 Resources used:
 - [Urban Swan Sitemap](https://www.urbanswan.com/sitemap.xml)
-
-### Data Analysis on DE
-
-### Data Visualization on TA
-
-### Similarity Analysis on DE vs TA
-
-### Forecasting on US based on Similarity Analysis
