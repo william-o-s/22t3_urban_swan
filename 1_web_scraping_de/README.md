@@ -1,19 +1,24 @@
 # Notes
 
-## Visible Data Points
+## Informational Data
+1. Web URL
+2. Experience Name
+
+## Visible Data Factors
 1. Duration: (varying)
 2. Day: (varying)
 3. Price per Person: Fixed, Baseline, or Discounted
 4. Location: Single or Multiple
-5. Google Review: Average Score + Number of Reviews
+5. Google Review: Average Score
+6. Google Review: Number of Reviews
 
-## Non-Visible Data Points
+## Non-Visible Data Factors
 1. Alcoholic: Yes or No
 2. Dine & Discover / Parents NSW
 3. Category:
-    a. Shows and Events
-    b. Fun and Games
-    c. Food and Drinks
-    d. Nature and Outdoors
-    e. Spa and Wellness
-    f. Skills and Workshops
+    1. Shows and Events
+    2. Fun and Games
+    3. Food and Drinks
+    4. Nature and Outdoors
+    5. Spa and Wellness
+    6. Skills and Workshops

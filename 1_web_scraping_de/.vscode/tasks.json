@@ -1,0 +1,43 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Python File",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": [
+                "${file}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "panel": "shared",
+                "focus": false
+            }
+        },
+        {
+            "label": "Run Full Program",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": [
+                "main__fetch_data.py"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "panel": "dedicated",
+                "focus": false
+            }
+        }
+    ]
+}
