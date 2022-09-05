@@ -1,3 +1,11 @@
 ### Visual Studio Code ###
-.vscode/
+.vscode/settings.json
 *.code-workspace
+
+### User-generated ###
+*.csv
+
+### Python ###
+.venv
+__pycache__
+
